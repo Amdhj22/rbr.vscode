@@ -1,0 +1,44 @@
+{
+  "name": "rbr",
+  "displayName": "RBR",
+  "description": "Red Bull Racing inspired colorscheme — kerb red for what's active, RB yellow for what needs attention.",
+  "version": "0.1.0",
+  "publisher": "Amdhj22",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "colorscheme",
+    "dark",
+    "red bull racing",
+    "rbr",
+    "f1",
+    "navy"
+  ],
+  "galleryBanner": {
+    "color": "#0a1128",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amdhj22/rbr.vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Amdhj22/rbr.vscode/issues"
+  },
+  "homepage": "https://github.com/Amdhj22/rbr",
+  "contributes": {
+    "themes": [
+      {
+        "label": "RBR",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rbr-color-theme.json"
+      }
+    ]
+  }
+}

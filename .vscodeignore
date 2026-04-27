@@ -1,0 +1,11 @@
+.git/**
+.github/**
+.gitignore
+.vscode/**
+.vscode-test/**
+
+**/.DS_Store
+**/*.map
+
+# Keep README.md / CHANGELOG.md / LICENSE — they render on the
+# Marketplace listing page.
