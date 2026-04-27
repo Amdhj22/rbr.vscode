@@ -299,8 +299,8 @@
 
     "//22": "==== Symbol icons (outlines, breadcrumbs) ====",
     "symbolIcon.classForeground":               "#ffd84d",
-    "symbolIcon.functionForeground":            "#82a0d8",
-    "symbolIcon.methodForeground":              "#82a0d8",
+    "symbolIcon.functionForeground":            "#ffffff",
+    "symbolIcon.methodForeground":              "#ffffff",
     "symbolIcon.variableForeground":            "#c8d0e8",
     "symbolIcon.constantForeground":            "#a8a8b0",
     "symbolIcon.stringForeground":              "#b8d49e",
@@ -434,7 +434,7 @@
         "meta.function-call entity.name.function",
         "support.function"
       ],
-      "settings": { "foreground": "#82a0d8" }
+      "settings": { "foreground": "#ffffff" }
     },
     {
       "name": "Function — builtin",
@@ -442,7 +442,7 @@
         "support.function.builtin",
         "support.function.magic"
       ],
-      "settings": { "foreground": "#82a0d8", "fontStyle": "italic" }
+      "settings": { "foreground": "#ffffff", "fontStyle": "italic" }
     },
 
     {
@@ -678,8 +678,8 @@
     "struct":            "#ffd84d",
     "typeParameter":     { "foreground": "#ffd84d", "italic": true },
 
-    "function":          "#82a0d8",
-    "method":            "#82a0d8",
+    "function":          "#ffffff",
+    "method":            "#ffffff",
     "macro":             "#a4bde8",
     "decorator":         "#a4bde8",
 
