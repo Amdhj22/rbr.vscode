@@ -99,7 +99,7 @@
     "editorError.foreground":                   "#f56570",
     "editorWarning.foreground":                 "#ffd84d",
     "editorInfo.foreground":                    "#82a0d8",
-    "editorHint.foreground":                    "#b0d4dc",
+    "editorHint.foreground":                    "#4D7EFF",
     "editorGutter.modifiedBackground":          "#ffd84d",
     "editorGutter.addedBackground":             "#b8d49e",
     "editorGutter.deletedBackground":           "#f56570",
@@ -193,7 +193,7 @@
     "terminal.ansiBrightYellow":                "#ffd84d",
     "terminal.ansiBrightBlue":                  "#a4bde8",
     "terminal.ansiBrightMagenta":               "#c8c8d0",
-    "terminal.ansiBrightCyan":                  "#b0d4dc",
+    "terminal.ansiBrightCyan":                  "#4D7EFF",
     "terminal.ansiBrightWhite":                 "#e8ecf5",
 
     "//14": "==== Inputs / dropdowns / buttons ====",
