@@ -16,7 +16,7 @@
 
 ## About
 
-`rbr.vscode` paints VS Code with the [RBR color scheme](https://github.com/Amdhj22/rbr) — **kerb red** for what's active, **RB yellow** for what needs attention, and a deep navy base that keeps both readable. See the upstream [`STYLE-GUIDE.md`](https://github.com/Amdhj22/rbr/blob/main/STYLE-GUIDE.md) for the full design rules.
+`rbr.vscode` paints VS Code with the [RBR color scheme](https://github.com/Amdhj22/rbr) — a **three-accent** palette: **kerb red** for what's active, **RB yellow** for what needs attention, **pure white** for functions / methods. A deep navy base keeps the trio readable. See the upstream [`STYLE-GUIDE.md`](https://github.com/Amdhj22/rbr/blob/main/STYLE-GUIDE.md) for the full design rules.
 
 > [!NOTE]
 > This scheme is a fan tribute. Not affiliated with or endorsed by Red Bull Racing, Oracle Red Bull Racing, or Red Bull GmbH.
