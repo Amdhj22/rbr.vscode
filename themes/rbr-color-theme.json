@@ -313,7 +313,7 @@
     "symbolIcon.fieldForeground":               "#c8d0e8",
     "symbolIcon.fileForeground":                "#a4bde8",
     "symbolIcon.folderForeground":              "#a4bde8",
-    "symbolIcon.namespaceForeground":           "#c8c8d0",
+    "symbolIcon.namespaceForeground":           "#95c0c8",
 
     "//23": "==== Charts (graphs, debug) ====",
     "charts.foreground":                        "#c8d0e8",
@@ -321,7 +321,7 @@
     "charts.red":                               "#e84a55",
     "charts.blue":                              "#82a0d8",
     "charts.yellow":                            "#ffd84d",
-    "charts.orange":                            "#c8c8d0",
+    "charts.orange":                            "#f5c842",
     "charts.green":                             "#b8d49e",
     "charts.purple":                            "#a8a8b0"
   },
@@ -361,7 +361,7 @@
         "constant.character.escape",
         "string.regexp constant.character.escape"
       ],
-      "settings": { "foreground": "#a8a8b0" }
+      "settings": { "foreground": "#a4bde8" }
     },
     {
       "name": "Regular expressions",
@@ -482,14 +482,14 @@
         "variable.language.self",
         "variable.language.super"
       ],
-      "settings": { "foreground": "#a8a8b0", "fontStyle": "italic" }
+      "settings": { "foreground": "#82a0d8", "fontStyle": "italic" }
     },
     {
       "name": "Variable — parameter",
       "scope": [
         "variable.parameter"
       ],
-      "settings": { "foreground": "#c8c8d0" }
+      "settings": { "foreground": "#b8d49e" }
     },
     {
       "name": "Variable — property / member",
@@ -529,7 +529,7 @@
         "entity.name.module",
         "support.module"
       ],
-      "settings": { "foreground": "#c8c8d0" }
+      "settings": { "foreground": "#95c0c8" }
     },
 
     {
@@ -670,7 +670,7 @@
 
   "semanticTokenColors": {
     "//": "Semantic tokens override TextMate scopes when LSP attaches.",
-    "namespace":         "#c8c8d0",
+    "namespace":         "#95c0c8",
     "type":              "#ffd84d",
     "class":             "#ffd84d",
     "enum":              "#ffd84d",
@@ -685,8 +685,8 @@
 
     "variable":          "#c8d0e8",
     "variable.readonly": { "foreground": "#a8a8b0" },
-    "variable.defaultLibrary": { "foreground": "#a8a8b0", "italic": true },
-    "parameter":         "#c8c8d0",
+    "variable.defaultLibrary": { "foreground": "#82a0d8", "italic": true },
+    "parameter":         "#b8d49e",
     "property":          "#c8d0e8",
     "enumMember":        "#c8c8d0",
     "event":             "#a4bde8",
