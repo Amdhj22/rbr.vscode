@@ -184,7 +184,7 @@
     "terminal.ansiGreen":                       "#9cc080",
     "terminal.ansiYellow":                      "#f5c842",
     "terminal.ansiBlue":                        "#82a0d8",
-    "terminal.ansiMagenta":                     "#d49880",
+    "terminal.ansiMagenta":                     "#a8a8b0",
     "terminal.ansiCyan":                        "#95c0c8",
     "terminal.ansiWhite":                       "#8590ae",
     "terminal.ansiBrightBlack":                 "#3a4466",
@@ -192,9 +192,9 @@
     "terminal.ansiBrightGreen":                 "#b8d49e",
     "terminal.ansiBrightYellow":                "#ffd84d",
     "terminal.ansiBrightBlue":                  "#a4bde8",
-    "terminal.ansiBrightMagenta":               "#e8b498",
+    "terminal.ansiBrightMagenta":               "#c8c8d0",
     "terminal.ansiBrightCyan":                  "#b0d4dc",
-    "terminal.ansiBrightWhite":                 "#c8d0e8",
+    "terminal.ansiBrightWhite":                 "#e8ecf5",
 
     "//14": "==== Inputs / dropdowns / buttons ====",
     "input.background":                         "#15203f",
@@ -302,18 +302,18 @@
     "symbolIcon.functionForeground":            "#82a0d8",
     "symbolIcon.methodForeground":              "#82a0d8",
     "symbolIcon.variableForeground":            "#c8d0e8",
-    "symbolIcon.constantForeground":            "#d49880",
+    "symbolIcon.constantForeground":            "#a8a8b0",
     "symbolIcon.stringForeground":              "#b8d49e",
-    "symbolIcon.numberForeground":              "#e8b498",
+    "symbolIcon.numberForeground":              "#c8c8d0",
     "symbolIcon.keywordForeground":             "#e84a55",
     "symbolIcon.interfaceForeground":           "#ffd84d",
     "symbolIcon.enumeratorForeground":          "#ffd84d",
-    "symbolIcon.enumeratorMemberForeground":    "#e8b498",
+    "symbolIcon.enumeratorMemberForeground":    "#c8c8d0",
     "symbolIcon.propertyForeground":            "#c8d0e8",
     "symbolIcon.fieldForeground":               "#c8d0e8",
     "symbolIcon.fileForeground":                "#a4bde8",
     "symbolIcon.folderForeground":              "#a4bde8",
-    "symbolIcon.namespaceForeground":           "#e8b498",
+    "symbolIcon.namespaceForeground":           "#c8c8d0",
 
     "//23": "==== Charts (graphs, debug) ====",
     "charts.foreground":                        "#c8d0e8",
@@ -321,9 +321,9 @@
     "charts.red":                               "#e84a55",
     "charts.blue":                              "#82a0d8",
     "charts.yellow":                            "#ffd84d",
-    "charts.orange":                            "#e8b498",
+    "charts.orange":                            "#c8c8d0",
     "charts.green":                             "#b8d49e",
-    "charts.purple":                            "#d49880"
+    "charts.purple":                            "#a8a8b0"
   },
 
   "tokenColors": [
@@ -361,12 +361,12 @@
         "constant.character.escape",
         "string.regexp constant.character.escape"
       ],
-      "settings": { "foreground": "#d49880" }
+      "settings": { "foreground": "#a8a8b0" }
     },
     {
       "name": "Regular expressions",
       "scope": [ "string.regexp" ],
-      "settings": { "foreground": "#e8b498" }
+      "settings": { "foreground": "#c8c8d0" }
     },
 
     {
@@ -377,7 +377,7 @@
         "constant.language.null",
         "constant.language"
       ],
-      "settings": { "foreground": "#e8b498" }
+      "settings": { "foreground": "#c8c8d0" }
     },
 
     {
@@ -386,7 +386,7 @@
         "variable.other.constant",
         "constant.other"
       ],
-      "settings": { "foreground": "#d49880" }
+      "settings": { "foreground": "#a8a8b0" }
     },
 
     {
@@ -482,14 +482,14 @@
         "variable.language.self",
         "variable.language.super"
       ],
-      "settings": { "foreground": "#d49880", "fontStyle": "italic" }
+      "settings": { "foreground": "#a8a8b0", "fontStyle": "italic" }
     },
     {
       "name": "Variable — parameter",
       "scope": [
         "variable.parameter"
       ],
-      "settings": { "foreground": "#e8b498" }
+      "settings": { "foreground": "#c8c8d0" }
     },
     {
       "name": "Variable — property / member",
@@ -529,7 +529,7 @@
         "entity.name.module",
         "support.module"
       ],
-      "settings": { "foreground": "#e8b498" }
+      "settings": { "foreground": "#c8c8d0" }
     },
 
     {
@@ -670,7 +670,7 @@
 
   "semanticTokenColors": {
     "//": "Semantic tokens override TextMate scopes when LSP attaches.",
-    "namespace":         "#e8b498",
+    "namespace":         "#c8c8d0",
     "type":              "#ffd84d",
     "class":             "#ffd84d",
     "enum":              "#ffd84d",
@@ -684,11 +684,11 @@
     "decorator":         "#a4bde8",
 
     "variable":          "#c8d0e8",
-    "variable.readonly": { "foreground": "#d49880" },
-    "variable.defaultLibrary": { "foreground": "#d49880", "italic": true },
-    "parameter":         "#e8b498",
+    "variable.readonly": { "foreground": "#a8a8b0" },
+    "variable.defaultLibrary": { "foreground": "#a8a8b0", "italic": true },
+    "parameter":         "#c8c8d0",
     "property":          "#c8d0e8",
-    "enumMember":        "#e8b498",
+    "enumMember":        "#c8c8d0",
     "event":             "#a4bde8",
 
     "keyword":           "#e84a55",
@@ -696,8 +696,8 @@
     "operator":          "#8590ae",
 
     "string":            "#b8d49e",
-    "number":            "#e8b498",
-    "regexp":            "#e8b498",
+    "number":            "#c8c8d0",
+    "regexp":            "#c8c8d0",
 
     "comment":           { "foreground": "#6a7495", "italic": true },
 
