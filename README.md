@@ -79,6 +79,7 @@ For a consistent look across the rest of your stack:
 | Tool | Repo |
 |---|---|
 | Neovim | [Amdhj22/rbr.nvim](https://github.com/Amdhj22/rbr.nvim) |
+| Obsidian | [Amdhj22/rbr.obsidian](https://github.com/Amdhj22/rbr.obsidian) |
 | tmux | [Amdhj22/rbr.tmux](https://github.com/Amdhj22/rbr.tmux) |
 | Ghostty / iTerm2 / Powerlevel10k / eza | [Amdhj22/rbr](https://github.com/Amdhj22/rbr) |
 
